@@ -6,7 +6,7 @@
 }
 .sister{
     background-color: yellow;
-    height: 400px;
+    height: 600px;
     width: 800px;
     margin: 50px;
 }
@@ -51,7 +51,8 @@
 }
 .log{
     border: 0px;
-    background-color: rgba(0, 119, 255, 0.726);
+    text-align: center;
+    background-color: rgba(0, 162, 255, 0.938);
     width: 300px;
     text-align: center;
     
