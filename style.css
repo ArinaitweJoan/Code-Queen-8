@@ -29,9 +29,11 @@
     margin: 80px;
     border-top-left-radius: 50px;
     border: 30px blue solid;
-    background-color: yellow;
     border-top-color: deeppink;
-    box-shadow: 20px 20px 10px lightcoral;
+    background-color: darkkhaki;
+    box-shadow: 20px 20px 10px mediumpurple;
+    
+
 
 }
 .box3{
@@ -40,8 +42,9 @@
     margin: 100px;
     border: 8px green solid;
     border-radius: 50%;
-    background-color: red;
-    box-shadow: 20px 20px 50px lightcoral
+    background-color: darkorchid;
+    box-shadow: 20px 20px 10px mediumaquamarine;
+    
     
 
 }

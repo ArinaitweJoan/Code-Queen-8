@@ -1,0 +1,18 @@
+.container{
+    background-color: deeppink;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap:20px;
+    grid-template-rows: 40px 60px 200px;
+    justify-content:start;
+}
+.container>div{
+    background-color: lightpink;
+}
+.container>p{
+    text-decoration: underline;
+    color: green;
+}
+.container>div>p{
+    color: orangered
+}
