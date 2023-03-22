@@ -20,7 +20,7 @@
     height: 600px;
     margin: 50px 40px;
     box-shadow: 50px 50px lightcoral;
-    background-color: gainsboro;
+    background-color: rgb(224, 196, 196);
     
 }
 #box2{
@@ -30,7 +30,7 @@
     border-top-left-radius: 50px;
     border: 30px blue solid;
     border-top-color: deeppink;
-    background-color: darkkhaki;
+    background-color: yellow;
     box-shadow: 20px 20px 10px mediumpurple;
     
 
@@ -44,7 +44,11 @@
     border-radius: 50%;
     background-color: darkorchid;
     box-shadow: 20px 20px 10px mediumaquamarine;
+
     
     
 
+}
+.col{
+    background-color:lime;
 }

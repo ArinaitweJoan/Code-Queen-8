@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    align-items: stretch;
+    height: 400px;
+    background-color: plum;
+    width: 400px;
+    gap: 30px;
+    
+
+}
+.item{
+    background-color: darkmagenta;
+    padding: 5px;
+    margin: 10px;
+
+}
